@@ -273,11 +273,10 @@ a{
 .super-puper__text-info{
     display: flex;
     justify-content: space-between;
-    
 }
 
 .super-puper__company-info{
-    
+    font-family: "Noto Sans", sans-serif;
     font-size: 14px;
     line-height: 21px;
 }
@@ -285,6 +284,7 @@ a{
 
 
 .a{
+    font-family: "Noto Sans", sans-serif;
     display: inline-block;
     margin-right: 14px;
     padding-top: 10px;
